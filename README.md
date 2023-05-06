@@ -1,4 +1,4 @@
-# Blood_Vessel_Segmentation
+# Blood_Vessel_Segmentation Using Unet Architecture
 Blood Vessel Segmentation of Diabetic Retinopathy Fundus Image. The dataset on the Unet model trained are Drive2004 Dataset and Chasedb
 <h2>Here is the segmented image picture<h2>
 
